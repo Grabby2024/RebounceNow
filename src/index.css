@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* Modern Custom Colors */
+  .bg-primary {
+    background-color: #1E293B; /* Slate-800 */
+  }
+  .text-primary {
+    color: #1E293B;
+  }
+
+  .bg-secondary {
+    background-color: #3B82F6; /* Blue-500 */
+  }
+  .text-secondary {
+    color: #3B82F6;
+  }
+
+  .bg-tertiary {
+    background-color: #F59E0B; /* Amber-500 */
+  }
+  .text-tertiary {
+    color: #F59E0B;
+  }
+
+  .bg-background {
+    background-color: #F8FAFC; /* Slate-50 */
+  }
+}
