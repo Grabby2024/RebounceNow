@@ -14,4 +14,3 @@ If you are developing a production application, we recommend using TypeScript an
 =======
 # RebounceNow
 Simple CRUD
->>>>>>> 3d398c4736e21c166ab554c64b8d542f8ee5b5fd
